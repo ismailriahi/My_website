@@ -1,4 +1,4 @@
-baseURL: https://ismailriahi.netlify.app/
+  baseURL: https://ismailriahi.netlify.app/
 languageCode: en-us
 title: Forty
 theme: forty
@@ -10,22 +10,22 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Ismail Riahi
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, UK W1W 5NU
+        country: United Kingdom
+        street: 109 Bolsover Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: iriahi.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (44) 7377522817
         title: Phone
   custom_css: []
   custom_js: []

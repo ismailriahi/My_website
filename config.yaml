@@ -82,7 +82,7 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: Real-life example of multidimensional scaling
         title: Statistical Learning
         url: blogs/Statistialearning
       - image: pic02.jpg

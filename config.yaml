@@ -1,6 +1,6 @@
   baseURL: https://ismailriahi.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Ismail Riahi
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -9,8 +9,8 @@ params:
     buttonText: Get Started
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Ismail Riahi
+      WITH THE HELP OF MR KOSTIS CHRISTODOULOU.
+    title: Hi, my name is Ismail Riahi, I am happy to present my portfolio website
   blog: {}
   contact:
     address:

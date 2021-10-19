@@ -35,49 +35,49 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Ismail Riahi
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+      - icon: fa-twitter#
+        label: Twitter#
+        url: https://www.twitter.com#
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/ismail.riahi/
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/ismailriahi/?hl=en
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/ismailriahi
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/ismail-riahi/
   image: ''
   name: Your name
   navigation:
     button1:
-      - name: Get Started
-        url: blogs
+      - name: Get Started#
+        url: blogs#
     button2:
-      - name: Log In
+      - name: Log In#
         url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: Data Analytics Projects
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Generic Blog#
+        url: blogs/ipsum#
+      - name: Elements#
+        url: elements.html#
     menu: Menu
     subtitle: By HTML5 Up
-    title: Forty
+    title: Ismail Portfolio
   tiles:
     enable: yes
     showcase:

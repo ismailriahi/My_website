@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       WITH THE HELP OF MR KOSTIS CHRISTODOULOU.
-    title: Hi, my name is Ismail Riahi, I am happy to present my portfolio website
+    title: Hi, my name is Ismail Riahi, Welcome to my portfolio website
   blog: {}
   contact:
     address:
@@ -61,23 +61,23 @@ params:
   name: Your name
   navigation:
     button1:
-      - name: Get Started#
-        url: blogs#
+      - name: Get Started
+        url: blogs
     button2:
-      - name: Log In#
-        url: '#'
+      - name#: Log In
+        url:# '#'
     links:
       - name: Home
         url: '#'
       - name: Data Analytics Projects
         url: blogs
-      - name: Generic Blog#
-        url: blogs/ipsum#
-      - name: Elements#
-        url: elements.html#
+      - name:# Generic Blog
+        url:# blogs/ipsum
+      - name:# Elements
+        url:# elements.html
     menu: Menu
     subtitle: By HTML5 Up
-    title: Ismail Portfolio
+    title: Ismail Projects Portfolio
   tiles:
     enable: yes
     showcase:
@@ -86,25 +86,25 @@ params:
         title: Statistical Learning
         url: blogs/Statistialearning
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: Empirical Bayesian Inference to determine effets of aging, alcohol and tobacco consumption on the likelihood of developing oesophageal cancer
+        title: Bayesian Linear Regression
+        url: blogs/Bayesianlinearregression
+      - image#: pic03.jpg
+        subtitle:# Lorem Etiam Nullam
+        title:# Magna
+        url:# blogs/magna
+      - image#: pic04.jpg#
+        subtitle:# Nisl Sed Aliquam
+        title:# Ipsum
+        url:# blogs/ipsum
+      - image:# pic05.jpg
+        subtitle:# Ipsum Dolor Sit Amet
+        title:# Consequat
+        url:# blogs/ipsum
+      - image:# pic06.jpg
+        subtitle:# Feugiat Amet Tempus
+        title:# Etiam
+        url:# blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes

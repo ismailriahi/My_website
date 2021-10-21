@@ -81,6 +81,10 @@ params:
   tiles:
     enable: yes
     showcase:
+      - image: pic03.jpg
+        subtitle: I will walk you through my Resume
+        title: Curriculum Vitae
+        url: /pdf/CVIR.pdf
       - image: pic01.jpg
         subtitle: Real-life example of multidimensional scaling based on my home country Tunisia
         title: Statistical Learning
@@ -89,10 +93,6 @@ params:
         subtitle: Empirical Bayesian Inference to determine effets of aging, alcohol and tobacco consumption on the likelihood of developing oesophageal cancer
         title: Bayesian Linear Regression
         url: blogs/Bayesianlinearregression
-      - image: pic03.jpg
-        subtitle: I will walk you through my Resume
-        title: Curriculum Vitae
-        url: blogs/CurriculumVitae
       - image: pic04.jpg#
         subtitle: Nisl Sed Aliquam
         title: Ipsum

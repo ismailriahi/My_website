@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      WITH THE HELP OF MR KOSTIS CHRISTODOULOU.
+      ευχαριστώ που με διδάξατε πώς να δημιουργώ έναν ιστότοποU.
     title: Hi, my name is Ismail Riahi, Welcome to my portfolio website
   blog: {}
   contact:
@@ -69,12 +68,12 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Data Analytics Projects
+      - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - \#name: Generic Blog
+        \#url: blogs/ipsum
+      - \#name: Elements
+        \#url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Ismail Projects Portfolio
@@ -104,11 +103,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle:
+    title: 
     url: blogs

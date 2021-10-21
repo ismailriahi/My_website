@@ -81,22 +81,22 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic03.jpg
-        subtitle: I will walk you through my Resume
+      - image: sdb.jpg
+        subtitle: Walk you through my Resume
         title: Curriculum Vitae
         url: /pdf/CVIR.pdf
-      - image: pic01.jpg
+      - image: ms.jpg
         subtitle: Real-life example of multidimensional scaling based on my home country Tunisia
         title: Statistical Learning
-        url: blogs/Statistialearning
+        url: /pdf/CWSL.pdf
       - image: pic02.jpg
         subtitle: Empirical Bayesian Inference to determine effets of aging, alcohol and tobacco consumption on the likelihood of developing oesophageal cancer
         title: Bayesian Linear Regression
         url: blogs/Bayesianlinearregression
-      - image: pic04.jpg#
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+      - image: pic04.jpg
+        subtitle: My country, my home
+        title: Tunisia, the land of Jasmine
+        url: blogs/Tunisia
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat

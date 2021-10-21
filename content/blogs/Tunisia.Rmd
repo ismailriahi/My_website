@@ -9,12 +9,14 @@ image: tn.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg
 
 keywords: ""
 slug: Tunisia # slug is the shorthand URL address... no spaces plz
-title: The land of jasmine
+title: The Land of Jasmine
 ---
 
-Th Capital of Tunisia, the cultural centre
+Th Capital of Tunisia, the Cultural Centre
 
-```{r}
+```{r, echo=FALSE}
 knitr::include_graphics("/img/crt.jpg",error =FALSE)
 ```
 
+
+Carthage, great city of antiquity on the north coast of Africa

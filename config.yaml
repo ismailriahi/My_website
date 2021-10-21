@@ -89,11 +89,11 @@ params:
         subtitle: Real-life example of multidimensional scaling based on my home country Tunisia
         title: Statistical Learning
         url: /pdf/CWSL.pdf
-      - image: pic02.jpg
+      - image: bay.jpg
         subtitle: Empirical Bayesian Inference to determine effets of aging, alcohol and tobacco consumption on the likelihood of developing oesophageal cancer
         title: Bayesian Linear Regression
-        url: blogs/Bayesianlinearregression
-      - image: pic04.jpg
+        url: /pdf/M2R.pdf
+      - image: tnn.jpg
         subtitle: My country, my home
         title: Tunisia, the land of Jasmine
         url: blogs/Tunisia

@@ -85,6 +85,14 @@ params:
         subtitle: Walk you through my Resume
         title: Curriculum Vitae
         url: /pdf/CVIR.pdf
+      - image: me.jpg
+        subtitle: Every story I create, creates me. 
+        title: About Me
+        url: blogs/ipsum
+      - image: tnn.jpg
+        subtitle: Home is where our story begins…
+        title: Tunisia, the land of Jasmine
+        url: blogs/Tunisia
       - image: ms.jpg
         subtitle: Real-life example of multidimensional scaling based on my home country Tunisia
         title: Statistical Learning
@@ -93,18 +101,6 @@ params:
         subtitle: Empirical Bayesian Inference to determine effets of aging, alcohol and tobacco consumption on the likelihood of developing oesophageal cancer
         title: Bayesian Linear Regression
         url: /pdf/M2R.pdf
-      - image: tnn.jpg
-        subtitle: My country, my home
-        title: Tunisia, the land of Jasmine
-        url: blogs/Tunisia
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes

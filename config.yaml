@@ -64,17 +64,17 @@ params:
       - name: Get Started
         url: blogs
     button2:
-      - name#: Log In
-        url:# '#'
+      - name: Log In
+        url: '#'
     links:
       - name: Home
         url: '#'
       - name: Data Analytics Projects
         url: blogs
-      - name:# Generic Blog
-        url:# blogs/ipsum
-      - name:# Elements
-        url:# elements.html
+      - name: Generic Blog
+        url: blogs/ipsum
+      - name: Elements
+        url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Ismail Projects Portfolio

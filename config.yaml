@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: sdb.jpg
+      - image: cvv.jpg
         subtitle: Walk you through my Resume
         title: Curriculum Vitae
         url: /pdf/CVIR.pdf
